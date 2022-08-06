@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I like to travel and watching anime
 
 ### Connect with me
-[<img align="left" height="30px" src="./images/gmail.png" alt="Gmail"/>](mailto:jony.du.12.12.12@email.com)
+[<img align="left" height="30px" src="./images/gmail.png" alt="Gmail" style='padding-left: 30px'/>](mailto:jony.du.12.12.12@email.com)
 
 [<img align="left" height="30px" src="./images/linkedin.png" alt="Linkedin" />](https://www.linkedin.com/in/md-khairul-islam-jony/)
 
