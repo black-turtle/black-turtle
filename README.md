@@ -3,6 +3,10 @@
 - 🌱 My next target is achieving some **open source contribution**
 - ⚡ Fun fact: I like to travel,watching anime and reading fantasy novels
 
+
+### Open source contributions
+- [Jimp - Fix issue and improve rotate algorithm for multiple of 90 degrees](https://github.com/jimp-dev/jimp/pull/1209/files)
+
 ### Connect with me
 
 [<img align="left" height="30px" src="./images/gmail.png" alt="Gmail" style='padding-left: 30px'/>](mailto:jony.du.12.12.12@email.com)
