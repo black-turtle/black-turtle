@@ -7,6 +7,12 @@
 ### Open source contributions
 - [Jimp - Fix issue and improve rotate algorithm for multiple of 90 degrees](https://github.com/jimp-dev/jimp/pull/1209/files)
 
+
+### Blogs
+- [Drawing bubble graph with React, d3.js & Typescript](https://dev.to/blac_kturtle/drawing-bubble-graph-with-react-d3js-typescript-2plh)
+- [A Quick Guide to Integrating Google Analytics in Your React or Next.js Project](https://medium.com/@jonys.mailbox/how-to-add-google-analytics-in-your-next-js-project-in-less-than-2-minutes-d7afe8e4b93)
+- [Format and lint code with Husky and Git Hooks](https://medium.com/@jonys.mailbox/automatically-format-and-lint-code-before-git-commit-in-any-javascript-project-8128520d08c5)
+
 ### Connect with me
 
 [<img align="left" height="30px" src="./images/gmail.png" alt="Gmail" style='padding-left: 30px'/>](mailto:jony.du.12.12.12@email.com)
